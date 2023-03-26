@@ -1,7 +1,7 @@
 ## Table of Contents
 * [Introduction](#introduction)
 * [Dataset](#Dataset)
-* [Packages](#packages)
+* [Libraries](#packages)
 * [Technologies](#tech)
 * [Used Algorithm](#algo)
 * [Visualization](#visual)
@@ -12,19 +12,19 @@ Trying to understand behind the scene of Transformer
 [Unreliable News Detection Dataset](https://www.kaggle.com/code/farjanakabirsamanta/unreliable-news-detection)
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 ## Packages
- * nltk
+ * BertTokenizer
   ```sh
   !pip install nltk
   ```
- * spacy
+ * BertForSequenceClassification
   ```sh
   !pip install spacy
   ```
- * WordCloud
+ * AdamW
   ```sh
   !pip install WordCloud
   ```
- * gensim
+ * get_linear_schedule_with_warmup
   ```sh
   !pip install gensim
   ```
