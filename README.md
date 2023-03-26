@@ -13,21 +13,13 @@ Trying to understand behind the scene of Transformer
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 ## Packages
  * BertTokenizer
-  ```sh
-  !pip install nltk
-  ```
+  
  * BertForSequenceClassification
-  ```sh
-  !pip install spacy
-  ```
+  
  * AdamW
-  ```sh
-  !pip install WordCloud
-  ```
+  
  * get_linear_schedule_with_warmup
-  ```sh
-  !pip install gensim
-  ```
+  
  
 ## Technologies
 - Python - 3.10
