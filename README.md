@@ -11,7 +11,7 @@ Trying to understand behind the scene of Transformer
 ## Dataset
 [Unreliable News Detection Dataset](https://www.kaggle.com/code/farjanakabirsamanta/unreliable-news-detection)
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-## Packages
+## Libraries
  * BertTokenizer
   
  * BertForSequenceClassification
@@ -23,11 +23,11 @@ Trying to understand behind the scene of Transformer
  
 ## Technologies
 - Python - 3.10
-- Jupyter Notebook
+- Kaggle Kernel
 
 ## Used Algorithm
 
-Bidirectional LSTM(Long Short Term Memory) 
+BERT Transformer 
 
 
 
