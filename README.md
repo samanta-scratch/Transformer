@@ -32,8 +32,8 @@ BERT Transformer
 
 
 ## Visualization
-![image](https://user-images.githubusercontent.com/113231185/222907611-f8c8c32b-2bf8-472b-9ffa-9bc2f8627a01.png)
-![image](https://user-images.githubusercontent.com/113231185/222907684-819db341-5d30-4408-8f1d-ebeb3a1f9c4c.png)
+![image](https://user-images.githubusercontent.com/113231185/227770188-bf349a07-e44f-4f14-ae98-4a426bf4e02a.png)
+![image](https://user-images.githubusercontent.com/113231185/227770210-5ecc07a0-6054-4b23-afa9-7c3370d88c37.png)
 
 
 ## Contributing
